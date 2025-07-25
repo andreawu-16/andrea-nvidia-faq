@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>NVIDIA Taiwan Q&A by Andrea</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f7f9fb;
+      color: #333;
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1, h2 {
+      color: #0769ad;
+    }
+    .faq-section {
+      margin-bottom: 2.5rem;
+    }
+    .question {
+      font-weight: bold;
+      margin-top: 1.2rem;
+    }
+    .answer {
+      margin-left: 1rem;
+      line-height: 1.6;
+    }
+    .contact {
+      background-color: #e3f2fd;
+      padding: 1rem;
+      border-radius: 10px;
+      margin-top: 2rem;
+    }
+    a {
+      color: #0077b6;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>NVIDIA Taiwan Recruitment Q&A</h1>
+
+  <div class="faq-section">
+    <h2>📌 About the Hiring Process</h2>
+    
+    <div class="question">1. What positions are currently open?</div>
+    <div class="answer">We are actively hiring across AI, GPU, software, and hardware fields. Please visit the <a href="https://www.nvidia.com/en-us/about-nvidia/careers/" target="_blank">NVIDIA Careers page</a> for the latest updates.</div>
+
+    <div class="question">2. What’s the general hiring process like?</div>
+    <div class="answer">The process usually includes resume screening, 1–2 rounds of technical interviews, and a final interview with the hiring manager. It typically takes 2 to 4 weeks to complete.</div>
+
+    <div class="question">3. What should I prepare for the interview?</div>
+    <div class="answer">It depends on the role, but common components include coding tests, system design questions, or short presentations.</div>
+
+    <div class="question">4. Does NVIDIA provide relocation or visa support?</div>
+    <div class="answer">Yes! We offer full relocation and work visa support for eligible candidates applying to Taiwan-based roles.</div>
+
+    <div class="question">5. Can overseas candidates apply for Taiwan positions?</div>
+    <div class="answer">Absolutely. We welcome applicants who are currently working or studying abroad and open to relocating to Taiwan.</div>
+  </div>
+
+  <div class="faq-section">
+    <h2>👩‍💻 About Me (Andrea Wu)</h2>
+
+    <div class="question">1. Who are you and how can I reach you?</div>
+    <div class="answer">I’m a Talent Sourcer at NVIDIA Taiwan, focusing on connecting overseas engineers with opportunities in Taiwan. You can reach out via <a href="mailto:andrewu@nvidia.com">email</a> or <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a>.</div>
+
+    <div class="question">2. Can I share my resume with you?</div>
+    <div class="answer">Of course! Please email it to me and include a brief introduction about your experience and interests.</div>
+
+    <div class="question">3. Will you refer me internally?</div>
+    <div class="answer">If your profile aligns with our roles, I’ll flag it internally and help make it visible to our global and campus hiring teams.</div>
+  </div>
+
+  <div class="contact">
+    🎯 Let's connect!  
+    <br/>
+    Andrea Wu｜Talent Sourcer, NVIDIA Taiwan  
+    <br/>
+    Email: <a href="mailto:andrewu@nvidia.com">andrewu@nvidia.com</a>  
+    <br/>
+    LinkedIn: <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">linkedin.com/in/your-linkedin</a>
+  </div>
+</body>
+</html>
